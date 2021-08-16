@@ -8,6 +8,7 @@ def is_singleton(factory):
     y = factory()
     return x is y
 
+
 class Evaluate(TestCase):
     def test_exercise(self):
         obj = [1, 2, 3]
