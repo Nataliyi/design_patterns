@@ -17,6 +17,8 @@
     Proxy
 
 Паттерны поведения
+    Chain of Responsibility
+    Command
 
 Порождающие паттерны
 
