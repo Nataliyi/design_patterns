@@ -31,8 +31,8 @@
 14 - Command
 15 - Interpreter
 16 - Iterator
-17 -
-18 - 
+17 - Mediator
+18 - Memento
 19 - 
 20 - 
 21 - 
