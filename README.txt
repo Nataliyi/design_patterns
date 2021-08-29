@@ -33,7 +33,7 @@
 16 - Iterator
 17 - Mediator
 18 - Memento
-19 - 
+19 - Observer
 20 - 
 21 - 
 22 - 
