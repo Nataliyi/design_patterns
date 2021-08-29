@@ -34,7 +34,7 @@
 17 - Mediator
 18 - Memento
 19 - Observer
-20 - 
+20 - State
 21 - 
 22 - 
 23 - 
