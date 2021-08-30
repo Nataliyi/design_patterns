@@ -46,7 +46,7 @@ class Evaluate(TestCase):
         c1 = Creature(1, 2)
         c2 = Creature(1, 2)
         game = TemporaryDamageCardGame([c1, c2])
-        self.assertEqual(-1, game.combat(0, 1), 'Combat should yield -1 since nobody died.')
+        self.assertEqual(-1, game.combat(0, 1), 'Combat should yield -1 since nobody died.') 
         self.assertEqual(-1, game.combat(0, 1), 'Combat should yield -1 since nobody died.')
 
     def test_temporary_murder(self):
