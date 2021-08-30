@@ -36,7 +36,7 @@
 19 - Observer
 20 - State
 21 - Strategy
-22 - 
+22 - Template
 23 - 
 
 
